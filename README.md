@@ -1,11 +1,15 @@
-# Smart Object Rotator for Unity
+# UPDATE
+
+**🚚 [This project has migrated to AmbientRotator.](https://github.com/timsamoff/AmbientRotator)**
+
+## Smart Object Rotator for Unity
 Give your object rotation some life!
 
 This simple script adds some interesting objects to object rotation in Unity that makes it appear as if the object is choosing which direction to rotate.
 
 ### Unity Package on the Unity Asset Store
 
-TBD
+~~TBD~~
 
 ### License
 [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html)
